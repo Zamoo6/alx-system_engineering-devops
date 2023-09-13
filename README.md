@@ -1,1 +1,1 @@
-alx-system_engineering-devops
+repositry for shell basics
