@@ -1,2 +1,2 @@
 #!/bin/bash
-greb -c 'bin' /ect/passwd
+greb -c bin /ect/passwd | wc -l
